@@ -309,3 +309,5 @@ let controller = (function(budgetCtrl, UICtrl){ // Knows about the other two now
 })(budgetController, UIController);
 
 controller.init();
+
+console.log('testing git pull');
